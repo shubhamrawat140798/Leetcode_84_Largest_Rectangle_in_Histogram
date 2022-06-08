@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.largest_rectangle_histogram","c":"AreaOfRectangle","l":"AreaOfRectangle()","url":"%3Cinit%3E()"},{"p":"com.largest_rectangle_histogram","c":"AreaOfRectangle","l":"getLargestRectangleArea(List<Integer>)","url":"getLargestRectangleArea(java.util.List)"}]
